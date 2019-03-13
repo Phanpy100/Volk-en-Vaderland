@@ -1,0 +1,272 @@
+ideologies = {
+	
+	anarchist = {
+	
+		types = {
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_DEMOCRATIC_1"
+		}
+		
+		color = { 75 0 0 }
+
+		can_be_boosted = no
+		
+		rules = {
+			can_force_government = no
+			can_puppet = no
+			can_join_factions = no
+			can_send_volunteers = yes
+		}	
+		
+		can_host_government_in_exile = yes
+		
+		war_impact_on_world_tension = 1.0		
+	
+		ai_neutral = yes	
+	}
+
+	revolutionary_socialist = {
+	
+		types = {
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_DEMOCRATIC_1"
+		}
+		
+		color = { 180 0 0 }
+
+		can_be_boosted = no
+		
+		rules = {
+			can_force_government = no
+			can_puppet = no
+			can_join_factions = no
+			can_send_volunteers = yes
+		}	
+		
+		can_host_government_in_exile = yes
+		
+		war_impact_on_world_tension = 1.0		
+	
+		ai_neutral = yes	
+	}
+
+	agrarianist = {
+	
+		types = {
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_DEMOCRATIC_1"
+		}
+		
+		color = { 180 45 45 }
+
+		can_be_boosted = no
+		
+		rules = {
+			can_force_government = no
+			can_puppet = no
+			can_join_factions = no
+			can_send_volunteers = yes
+		}	
+		
+		can_host_government_in_exile = yes
+		
+		war_impact_on_world_tension = 1.0		
+	
+		ai_neutral = yes	
+	}
+
+	social_democratic = {
+	
+		types = {
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_DEMOCRATIC_1"
+		}
+		
+		color = { 220 0 70 }
+
+		can_be_boosted = no
+		
+		rules = {
+			can_force_government = no
+			can_puppet = no
+			can_join_factions = no
+			can_send_volunteers = yes
+		}	
+		
+		can_host_government_in_exile = yes
+		
+		war_impact_on_world_tension = 1.0		
+	
+		ai_neutral = yes	
+	}
+
+	social_liberal = {
+	
+		types = {
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_DEMOCRATIC_1"
+		}
+		
+		color = { 200 165 0 }
+
+		can_be_boosted = no
+		
+		rules = {
+			can_force_government = no
+			can_puppet = no
+			can_join_factions = no
+			can_send_volunteers = yes
+		}	
+		
+		can_host_government_in_exile = yes
+		
+		war_impact_on_world_tension = 1.0		
+	
+		ai_neutral = yes	
+	}
+
+	classic_liberal = {
+	
+		types = {
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_DEMOCRATIC_1"
+		}
+		
+		color = { 230 220 0 }
+
+		can_be_boosted = no
+		
+		rules = {
+			can_force_government = no
+			can_puppet = no
+			can_join_factions = no
+			can_send_volunteers = yes
+		}	
+		
+		can_host_government_in_exile = yes
+		
+		war_impact_on_world_tension = 1.0		
+	
+		ai_neutral = yes	
+	}
+
+	social_conservative = {
+	
+		types = {
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_DEMOCRATIC_1"
+		}
+		
+		color = { 0 0 153 }
+
+		can_be_boosted = no
+		
+		rules = {
+			can_force_government = no
+			can_puppet = no
+			can_join_factions = no
+			can_send_volunteers = yes
+		}	
+		
+		can_host_government_in_exile = yes
+		
+		war_impact_on_world_tension = 1.0		
+	
+		ai_neutral = yes	
+	}
+
+	monarchist = {
+	
+		types = {
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_DEMOCRATIC_1"
+		}
+		
+		color = { 102 0 102 }
+
+		can_be_boosted = no
+		
+		rules = {
+			can_force_government = no
+			can_puppet = no
+			can_join_factions = no
+			can_send_volunteers = yes
+		}	
+		
+		can_host_government_in_exile = yes
+		
+		war_impact_on_world_tension = 1.0		
+	
+		ai_neutral = yes	
+	}
+
+	paternal_autocratic = {
+	
+		types = {
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_DEMOCRATIC_1"
+		}
+		
+		color = { 64 64 64 }
+
+		can_be_boosted = no
+		
+		rules = {
+			can_force_government = no
+			can_puppet = no
+			can_join_factions = no
+			can_send_volunteers = yes
+		}	
+		
+		can_host_government_in_exile = yes
+		
+		war_impact_on_world_tension = 1.0		
+	
+		ai_neutral = yes	
+	}
+
+	national_synarchist = {
+	
+		types = {
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_DEMOCRATIC_1"
+		}
+		
+		color = { 102 51 0 }
+
+		can_be_boosted = no
+		
+		rules = {
+			can_force_government = no
+			can_puppet = no
+			can_join_factions = no
+			can_send_volunteers = yes
+		}	
+		
+		can_host_government_in_exile = yes
+		
+		war_impact_on_world_tension = 1.0		
+	
+		ai_neutral = yes	
+	}
+}
