@@ -1,0 +1,32 @@
+state={
+	id=790
+	name="STATE_790"
+	resources={
+		steel=3 # was: 24.000
+	}
+	
+	state_category = large_town
+
+	history={
+		owner = NWN
+		buildings = {
+			infrastructure = 7
+			arms_factory = 2
+			industrial_complex = 1
+			9832 = {
+				naval_base = 3
+
+			}
+		}
+		add_core_of = NWN
+		victory_points = {
+			9832 3 
+		}
+	}
+
+	provinces={
+		718 908 6909 9832 9847 9850 11830
+	}
+	manpower=3288061
+	buildings_max_level_factor=1.000
+}

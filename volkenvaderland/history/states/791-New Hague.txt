@@ -1,0 +1,31 @@
+state={
+	id=791
+	name="STATE_791"
+	resources={
+		steel=3 # was: 24.000
+	}
+	
+	state_category = rural
+
+	history={
+		owner = NWN
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			3917 = {
+				naval_base = 2
+
+			}
+		}
+		add_core_of = NWN
+		victory_points = {
+			3917 3 
+		}
+	}
+
+	provinces={
+		3917 9758 9786
+	}
+	manpower=788061
+	buildings_max_level_factor=1.000
+}

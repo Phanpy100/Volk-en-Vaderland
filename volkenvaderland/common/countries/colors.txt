@@ -1,5 +1,24 @@
 #reload countrycolors
-
+NWN = {
+	color = rgb { 220 120 0 }
+	color_ui = rgb { 220 120 0 }
+}
+LIP = {
+	color = rgb { 200 110 70 }
+	color_ui = rgb { 200 110 70 }
+}
+BAV = {
+	color = rgb { 60 190 150 }
+	color_ui = rgb { 200 200 50 }
+}
+SIL = {
+	color = rgb { 200 200 50 }
+	color_ui = rgb { 200 200 50 }
+}
+SAX = {
+	color = rgb { 121 178 32 }
+	color_ui = rgb { 121 178 32 }
+}
 GER = {
 	color = HSV { 0.1 0.15 0.4 }
 	color_ui = rgb { 138 155 116 }
