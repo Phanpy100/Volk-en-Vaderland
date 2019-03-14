@@ -3,6 +3,7 @@ ideologies = {
 	anarchist = {
 	
 		types = {
+			anarchist_subtype = {}
 		}
 		
 		dynamic_faction_names = {
