@@ -55,7 +55,7 @@ ideologies = {
 		ai_neutral = yes	
 	}
 
-	agrarianist = {
+	electoral = {
 	
 		types = {
 		}
@@ -82,7 +82,7 @@ ideologies = {
 		ai_neutral = yes	
 	}
 
-	social_democratic = {
+	social_progressive = {
 	
 		types = {
 		}
