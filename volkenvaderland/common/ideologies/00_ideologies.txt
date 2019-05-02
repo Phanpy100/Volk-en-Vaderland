@@ -4,6 +4,8 @@ ideologies = {
 	
 		types = {
 			anarchist_subtype = {}
+			federalist = {}
+			extreme_decentralization = {}
 		}
 		
 		dynamic_faction_names = {
@@ -28,9 +30,11 @@ ideologies = {
 		ai_neutral = yes	
 	}
 
-	revolutionary_socialist = {
+	communism = {
 	
 		types = {
+		revolutionary_socialist_subtype = {}
+		socialist_totalitarean = {}
 		}
 		
 		dynamic_faction_names = {
@@ -58,6 +62,9 @@ ideologies = {
 	electoral = {
 	
 		types = {
+		unionist = {}
+		radical_democractic = {}
+		internal_electoral = {}
 		}
 		
 		dynamic_faction_names = {
@@ -85,6 +92,8 @@ ideologies = {
 	social_progressive = {
 	
 		types = {
+		social_progressive_subtype = {}
+		social_democrat = {}
 		}
 		
 		dynamic_faction_names = {
@@ -109,9 +118,10 @@ ideologies = {
 		ai_neutral = yes	
 	}
 
-	social_liberal = {
+	democratic = {
 	
 		types = {
+		social_liberal_subtype = {}
 		}
 		
 		dynamic_faction_names = {
@@ -139,6 +149,8 @@ ideologies = {
 	classic_liberal = {
 	
 		types = {
+		classical_liberal_subtype = {}
+		liberterian = {}
 		}
 		
 		dynamic_faction_names = {
@@ -166,6 +178,9 @@ ideologies = {
 	social_conservative = {
 	
 		types = {
+		social_conservative_subtype = {}
+		religious_democrat = {}
+		traditionalist = {}
 		}
 		
 		dynamic_faction_names = {
@@ -193,6 +208,9 @@ ideologies = {
 	monarchist = {
 	
 		types = {
+		monarchist_subtype = {}
+		orangist = {}
+		social_progressive_subtype = {}
 		}
 		
 		dynamic_faction_names = {
@@ -217,9 +235,12 @@ ideologies = {
 		ai_neutral = yes	
 	}
 
-	paternal_autocratic = {
+	neutrality = {
 	
 		types = {
+		dictatoral = {}
+		autocratic_democrat = {}
+		junta = {}
 		}
 		
 		dynamic_faction_names = {
@@ -244,9 +265,11 @@ ideologies = {
 		ai_neutral = yes	
 	}
 
-	national_synarchist = {
+	fascism = {
 	
 		types = {
+		synarchist = {}
+		nationalist = {}
 		}
 		
 		dynamic_faction_names = {
